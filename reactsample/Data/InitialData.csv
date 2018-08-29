@@ -1,0 +1,12 @@
+﻿QuestionnaireName, Section, QuestionId, Question,  QuestionType, QuestionOptionId, ParentQuestionId, ParentOptionId
+Questionnaire1,Section1,1,What is your name?,1,,,,
+Questionnaire1,Section1,2,Do you like chocolate?,2,,,,
+Questionnaire1,Section1,2,Yes,2,1,,,
+Questionnaire1,Section1,2,No,2,2,,,
+Questionnaire1,Section1,3,What kind?,2,,,,
+Questionnaire1,Section1,3,Dark,2,1,2,1
+Questionnaire1,Section1,3,Milk,2,2,2,1
+Questionnaire1,Section1,3,Other,2,3,2,1
+Questionnaire1,Section1,4,State other?,1,,3,3
+Questionnaire1,Section2,5,Sec. 2 question?,1,,,,
+My Survey,My Section,1,My Question?, 1,,,,
